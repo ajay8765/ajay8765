@@ -1,4 +1,4 @@
-![logo](https://github.com/ajay8765/ajay8765/blob/main/AJAY%20KUMAR%20YADAV.png)
+![logo](https://github.com/ajay8765/ajay8765/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align=“right”src=“coding”width=“400”src=“https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg”>
